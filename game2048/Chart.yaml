@@ -1,0 +1,5 @@
+apiVersion: v2
+name: game2048
+version: 1.0.1
+description: game2048 helm chart description #optional
+appVersion: v1  #apllication version #optional
